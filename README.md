@@ -13,3 +13,7 @@ A modern and responsive developer portfolio built using **HTML**, **CSS**, and *
 - HTML5
 - CSS3 (Flexbox & Media Queries)
 - JavaScript (for interactivity & animations)
+
+## 🔗 Live Demo
+
+[👉 View Live](https://heartfelt-dragon-0a8002.netlify.app/) 
